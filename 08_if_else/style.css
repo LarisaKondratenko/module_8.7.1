@@ -1,0 +1,9 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+    color: #13b363;
+    font-size: 200%;
+    text-align: center;
+    border-top-color:rgb(23, 230, 202);
+    background-color: rgb(250, 246, 249);
+}
